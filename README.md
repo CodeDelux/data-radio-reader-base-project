@@ -1,9 +1,9 @@
 
 > Open this page at [https://codedelux.github.io/data-radio-reader-base-project/](https://codedelux.github.io/data-radio-reader-base-project/)
 
-## Edit this project
+## Start Coding Using This as the Base
 
-To edit this repository in MakeCode.
+To copy this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
